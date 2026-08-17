@@ -1,7 +1,7 @@
 
 
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('assets/data/tbc-info.json')
+  fetch('static/data/tbc-info.json')
     .then(res => res.json())
     .then(data => {
       renderSintomas(data.sintomas);

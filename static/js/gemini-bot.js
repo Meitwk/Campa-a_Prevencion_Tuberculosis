@@ -1,4 +1,4 @@
-JavaScript
+
 
 
 const GEMINI_API_KEY = "TU_API_KEY_AQUI"; // Reemplazar con tu llave de Gemini
