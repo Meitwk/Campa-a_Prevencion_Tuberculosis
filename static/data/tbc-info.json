@@ -1,0 +1,32 @@
+JSON
+
+
+{
+  "sintomas": [
+    {
+      "titulo": "Tos Persistente",
+      "descripcion": "Tos continua por más de 15 días. Es la principal señal de alerta.",
+      "icono": "bi-lungs-fill"
+    },
+    {
+      "titulo": "Fiebre y Sudoración",
+      "descripcion": "Aumento de temperatura por las tardes y sudoración nocturna excesiva.",
+      "icono": "bi-thermometer-high"
+    },
+    {
+      "titulo": "Pérdida de Peso",
+      "descripcion": "Reducción imprevista de peso y pérdida notable del apetito.",
+      "icono": "bi-graph-down-arrow"
+    }
+  ],
+  "mitos": [
+    {
+      "mito": "La TBC no se cura.",
+      "realidad": "¡Falso! La TBC es 100% curable si se completa el tratamiento sin interrupciones."
+    },
+    {
+      "mito": "Se transmite al estrechar la mano.",
+      "realidad": "¡Falso! Solo se transmite por el aire al toser o estornudar sin protección."
+    }
+  ]
+}
